@@ -22,12 +22,12 @@ Módulos e funcionalidades:
     * Dados básicos
     * Nome 
     * Partes que está habilitado a receber (checkbox)
-    → Criação e edição de banco de dados (sqlite3?)
+    * → Criação e edição de banco de dados (sqlite3?)
   
   - Configurações das reuniões:
     * Eventos regulares
     * Eventos especiais
-    → Definir uma extrutura básica para as partes (de modo que possa ser reaproveitada)
+    * → Definir uma extrutura básica para as partes (de modo que possa ser reaproveitada)
     
   - Sorteio, regras adicionais.
   
