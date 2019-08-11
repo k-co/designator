@@ -9,13 +9,13 @@ Acessibilidade, o projeto deve ser flexível para ser usado em qualquer disposit
 # To do
 
 Designações para o mês.
-1 - Carrega todos os participantes, cada um com sua informação de quais partes pode realizar.
-2 - Define os dias da Reunião
-3 - Define as partes para cada Reunião.
-4 - Manda o programa sortear
-5 - Revisão
-6 - Adiciona regras ou altera manualmente
-7 - Salva/Imprime
+* 1 - Carrega todos os participantes, cada um com sua informação de quais partes pode realizar.
+* 2 - Define os dias da Reunião
+* 3 - Define as partes para cada Reunião.
+* 4 - Manda o programa sortear
+* 5 - Revisão
+* 6 - Adiciona regras ou altera manualmente
+* 7 - Salva/Imprime
 
 Módulos e funcionalidades:
   - Módulo de entrada de participantes:
